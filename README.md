@@ -20,7 +20,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Program
 ```
 Name: Gedipudi Darshani
-Reference Number: 23004619
+Reference Number: 212223230062
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -51,4 +51,4 @@ print("---------------------------------------------------------------")
 ![Alt text](<Screenshot (204).png>)
 
 ## Result :
-By using the python programming ,Single server with infinite capacity (M/M/1):(oo/FIFO) executed successfully.
+
